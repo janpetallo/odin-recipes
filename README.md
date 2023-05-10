@@ -1,5 +1,5 @@
 # odin-recipes
-In this mini project, basic HTML is used to display recipes.
+## In this mini project, basic HTML is used to display recipes.
 There is a homepage where links to the recipes are shown. 
 Each recipe is a page of their own.
 
