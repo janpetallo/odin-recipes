@@ -1,0 +1,38 @@
+ body{
+    background-color: tan;
+ }
+ .main-title{
+    text-align: center;
+    background-color: tan;
+    font-size: 36px;
+}
+
+.main-title.recipe {
+    font-size: 30px;
+}
+
+#main-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+img {
+    height: auto;
+    width: 400px;
+}
+
+h2,
+h3{
+    color: brown;
+}
+
+#main-list {
+    font-size: 28px;
+}
+
+a {
+    color: brown;
+}
+
